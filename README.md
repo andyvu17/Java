@@ -1,4 +1,4 @@
 # Java
 Challenges from Java Programming Masterclass for Software Developers on Udemy
 
-Data Structures and Algorithms
+Various Data Structures and Algorithms (sorting, searching, etc.)
