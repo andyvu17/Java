@@ -38,6 +38,7 @@ public class mergeSort {
         //fill helper with array contents
         for(int i = low; i <= high; i++) {
             helper[i] = array[i];
+
         }
 
         //set to first position of left subarray
